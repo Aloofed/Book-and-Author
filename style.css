@@ -1,0 +1,102 @@
+body{
+    top: 0;
+    margin: 0;
+    font-family: "Poppins";
+   text-align: center;
+   font-size: 24px;
+}
+a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-size: 24px;
+    background-color: crimson;
+    padding: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+a:hover{
+    background-color: white;
+    color: black;
+    transition: 2s;
+}
+.cont{
+    margin-top: 20px;
+    
+}
+.label-author{
+    font-size: 24px;
+}
+.inp-author{
+    font-size: 24px;
+}
+.save-btn{
+    font-size: 24px;
+    padding: 10px;
+    background-color: teal;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.save-btn:hover{
+    background-color: white;
+    color: black;
+    transition: 2s;
+}
+.disp{
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+}
+.cans{
+    margin-left: 30px;
+}
+.list-btn{
+    text-align: right;
+}
+.list{
+    background-color: teal;
+}
+.up-btn{
+    font-size: 20px;
+    font-weight: lighter;
+    background-color: #0077B6;
+    margin-left: 10px;
+}
+.del-btn{
+    font-size: 20px;
+    font-weight: lighter;
+    background-color: red;
+    margin-left: 20px;
+}
+.tbl{
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.back{
+    text-align: left;
+    margin-top: 10px;
+}
+.t1{
+    margin-left: 10px;
+}
+.labels{
+    font-size: 25px;
+}
+
+th{
+    margin-left: 50px;
+    padding-left: 50px;
+    border: thick black;
+}
+.a1{
+    color: crimson;
+}
+.a2{
+    color: crimson;
+}
+.a3{
+    color: crimson;
+}
+
